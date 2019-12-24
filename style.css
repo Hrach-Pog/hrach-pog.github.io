@@ -1,0 +1,133 @@
+body{
+	background: url(https://images.fastcompany.net/image/upload/w_1280,f_jpg,q_auto,fl_lossy/wp-cms/uploads/2018/08/p-1-90217759-your-complete-guide-to-not-buying-crap-on-a-budget.gif);
+
+}
+ * {
+ 	box-sizing: border-box;
+ }
+header {
+ background: url(https://upload.wikimedia.org/wikipedia/commons/f/fd/Zara_Logo.svg);
+ background-size: contain;
+ background-repeat: no-repeat;
+ width:400px; 
+ height: 150px;
+
+ }
+ 
+#headerSlogan {
+	float: right;
+}
+#award {
+	position: absolute;
+	top: 15px;
+	left: 700px;
+}
+#drinks {
+	border: 1px tan solid;
+	background-color: #ffe5cc;
+	background: url();
+	display: table-cell;
+	vertical-align: top;
+	width: 20%;
+	padding: 10px;
+	margin: 12px;
+	font-weight: bold;
+	background-color: #f7f7f7;
+	opacity: 0.9;  
+
+}
+#main {
+	border: 1px tan solid;
+	background-color: #ffe5cc;
+	background: url();
+	display: table-cell;
+	vertical-align: top;
+	width: 50%;
+	padding: 10px;
+	margin: 12px;
+	font-weight: bold;
+	background-color: #f7f7f7;
+	opacity: 0.9;  
+	
+}
+#sidebar {
+	border: 1px tan solid;
+	background-color: #ffe5cc;
+	background:  url();
+	display: table-cell;
+	vertical-align: top;
+	width: 25%;
+	padding: 10px;
+	margin: 12px;
+	line-height: 30px;
+	background-repeat: no-repeat;
+	font-weight: bold;
+	background-color: #f7f7f7;
+	opacity: 0.9; 
+	
+}
+#coupon {
+	position: fixed;
+	left: -40px;
+	top: 50%;
+	
+}
+#footer {
+	text-align: center;
+	font-weight: bold;
+	background-color: #f7f7f7;
+	color: black;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	opacity: 0.9;
+
+	  
+}
+.beanheading{
+	text-align: center;
+}
+h1 {
+	color: indianred;
+}
+a {
+	text-decoration: dashed;
+	color: indianred;
+	 font-weight: bold;
+	 font-size: 40px;
+}
+.slogan {
+	color: indianred;
+	line-height: : 25px;
+}
+
+li{
+	display: inline-block;
+	border-color: ;
+	font-size: 18px;
+	font-weight: normal;
+	background: ;
+    color: ;
+    margin-right: 20px
+
+}
+
+ul{
+	list-style-type:none;
+	margin-right: 50px;
+  	padding: 10px; 
+}
+nav {
+	background:;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+}
+
+#table {
+	display: table;
+	border-spacing: 10px;
+}
+
+#row {
+	display: table-row;
+}
